@@ -1,0 +1,5 @@
+Nama saya edo dari bogor
+
+Resolusi Saya :
+- membuat website menggunakan react
+- bekerja di startup
